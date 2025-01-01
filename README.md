@@ -15,8 +15,8 @@
 
 ## 📫 How to Reach Me
 
-- 💌 Email: [abdelrahmansabry53@gmail.com](mohmedzeedan2222@gamil.com)
-- 💼 LinkedIn: [linkedin.com/in/abdelrahman-sabry](in/mohmed-shawky-a497611a8)
+- 💌 Email: [mohmedzeedan2222@gamil.com](mohmedzeedan2222@gamil.com)
+- 💼 LinkedIn: [in/mohmed-shawky-a497611a8](in/mohmed-shawky-a497611a8)
 
 ## 💻 Technologies & Tools
 
