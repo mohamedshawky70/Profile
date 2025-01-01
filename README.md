@@ -16,7 +16,7 @@
 ## 📫 How to Reach Me
 
 - 💌 Email: (mohmedzeedan2222@gamil.com)
-- 💼 LinkedIn: (in/mohmed-shawky-a497611a8)
+- 💼 LinkedIn: ([in/mohmed-shawky-a497611a8](https://www.linkedin.com/in/mohmed-shawky-a497611a8/))
 
 ## 💻 Technologies & Tools
 
