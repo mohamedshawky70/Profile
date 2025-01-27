@@ -10,7 +10,7 @@
 - 📍 Based in Sohag Governorate, Egypt.
 - 🤖 Exploring AI to enhance web development projects.
 - ☕ Coffee enthusiast and lifelong learner.
-- 🧮 Solved over **1000 problem** on Codeforces and Leetcode, enhancing my problem-solving and algorithmic skills.
+- 🧮 Solved over **1000+ problem** on Codeforces and Leetcode, enhancing my problem-solving and algorithmic skills.
 
 
 ## 📫 How to Reach Me
